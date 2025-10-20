@@ -3,14 +3,16 @@
   "symbol": "dSOL",
   "description": "Infinite Money Glitch Volume Stream demonstration using arbitrage",
   "image": "https://cryptologos.cc/logos/solana-sol-logo.png",
-  "attributes": [
-    {"trait_type": "Simulation", "value": "Devnet Arbitrage Demo"},
-    {"trait_type": "Type", "value": "Synthetic SOL"}
-  ],
+  "seller_fee_basis_points": 0,
+  "attributes": [],
+  "collection": null,
   "properties": {
-    "category": "token",
-    "creators": [
-      {"address": "EbE8Atwt8q18mGhcsYdD5eL9C4rp9k6SMyrKF6TueWz5", "share": 100}
-    ]
+    "files": [
+      {
+        "uri": "https://cryptologos.cc/logos/solana-sol-logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
   }
 }
