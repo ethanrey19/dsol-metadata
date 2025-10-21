@@ -2,7 +2,7 @@
   "name": "Solana",
   "symbol": "dSOL",
   "description": "Infinite Money Glitch Volume Stream demonstration using arbitrage",
-  "image": "https://cryptologos.cc/logos/solana-sol-logo.png",
+  "image": "https://raw.githubusercontent.com/ethanrey19/dsol-metadata/main/dsol_logo.png",
   "external_url": "https://imgsolana.com/",
   "attributes": [],
   "seller_fee_basis_points": 0,
@@ -16,3 +16,4 @@
     "category": "image"
   }
 }
+
