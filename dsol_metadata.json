@@ -13,9 +13,16 @@
         "type": "image/png"
       }
     ],
-    "category": "image"
+    "category": "image",
+    "creators": [
+      {
+        "address": "<YOUR_WALLET_ADDRESS>",
+        "share": 100
+      }
+    ]
   }
 }
+
 
 
 
