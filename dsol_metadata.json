@@ -9,11 +9,12 @@
   "properties": {
     "files": [
       {
-        "uri": "https://cryptologos.cc/logos/solana-sol-logo.png",
+        "uri": "https://raw.githubusercontent.com/ethanrey19/dsol-metadata/main/dsol_logo.png",
         "type": "image/png"
       }
     ],
     "category": "image"
   }
 }
+
 
