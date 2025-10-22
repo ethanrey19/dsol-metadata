@@ -1,5 +1,5 @@
 {
-  "name": "Solana",
+  "name": "Fake Solana",
   "symbol": "dSOL",
   "description": "Infinite Money Glitch Volume Stream demonstration using arbitrage",
   "image": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
@@ -22,4 +22,5 @@
     ]
   }
 }
+
 
