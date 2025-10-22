@@ -2,25 +2,23 @@
   "name": "Fake Solana",
   "symbol": "dSOL",
   "description": "Infinite Money Glitch Volume Stream demonstration using arbitrage",
-  "image": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+  "image": "https://raw.githubusercontent.com/ethanrey19/img-solana-tokens-metadata/refs/heads/main/dsol-logo.png",
   "external_url": "https://imgsolana.com/",
   "attributes": [],
   "seller_fee_basis_points": 0,
   "properties": {
     "files": [
       {
-        "uri": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+        "uri": "https://raw.githubusercontent.com/ethanrey19/img-solana-tokens-metadata/refs/heads/main/dsol-logo.png",
         "type": "image/png"
       }
     ],
     "category": "image",
     "creators": [
       {
-        "address": "EbE8Atwt8q18mGhcsYdD5eL9C4rp9k6SMyrKF6TueWz5",
+        "address": "EQx5vgFJzG61ScY4jjQ6A8VXc8jkXuxRvHGw5DyEhWVi",
         "share": 100
       }
     ]
   }
 }
-
-
