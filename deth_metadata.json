@@ -2,13 +2,13 @@
   "name": "Fake Ethereum",
   "symbol": "dETH",
   "description": "Infinite Money Glitch Volume Stream demonstration using arbitrage",
-  "image": "https://raw.githubusercontent.com/ethanrey19/img-solana-tokens-metadata/main/deth-logo.png",
+  "image": "https://raw.githubusercontent.com/ethanrey19/img-solana-tokens-metadata/refs/heads/main/deth_logo.png",
   "attributes": [],
   "seller_fee_basis_points": 0,
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/ethanrey19/img-solana-tokens-metadata/main/deth-logo.png",
+        "uri": "https://raw.githubusercontent.com/ethanrey19/img-solana-tokens-metadata/refs/heads/main/deth_logo.png",
         "type": "image/png"
       }
     ],
